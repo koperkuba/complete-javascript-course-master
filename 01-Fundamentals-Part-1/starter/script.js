@@ -18,3 +18,4 @@ year = 1991;
 console.log(typeof year);
 
 console.log(typeof null);
+console.log(typeof year)
